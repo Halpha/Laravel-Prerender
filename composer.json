@@ -1,5 +1,5 @@
 {
-    "name": "nutsweb/laravel-prerender",
+    "name": "Halpha/laravel-prerender",
     "description": "Laravel middleware for prerendering javascript-rendered pages on the fly for SEO",
     "keywords": ["laravel", "prerender"],
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "4.2.*",
+        "illuminate/support": "5.1.*",
         "guzzlehttp/guzzle": "~4.0"
     },
     "autoload": {
